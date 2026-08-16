@@ -1,0 +1,14 @@
+{
+  "appId": "com.xevrontech.studybuddyzonemanager",
+  "appName": "StudyBuddyZone Manager",
+  "webDir": "www",
+  "server": {
+    "url": "https://manager-public.vercel.app",
+    "allowNavigation": [
+      "*.vercel.app",
+      "*.firebaseio.com",
+      "*.firebaseapp.com",
+      "*.googleapis.com"
+    ]
+  }
+}
