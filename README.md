@@ -1,4 +1,4 @@
-# studybuddyzonemanager-android
+j# studybuddyzonemanager-android
 
 Manager (admin panel) app — Capacitor WebView wrapper around
 `https://manager-public.vercel.app`, connected to the same Firebase project
